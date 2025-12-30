@@ -1,0 +1,8 @@
+ollama
+SpeechRecognition
+pyaudio
+PocketSphinx
+openai-whisper
+soundfile
+sounddevice
+pyttsx3

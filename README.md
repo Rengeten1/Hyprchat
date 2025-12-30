@@ -14,7 +14,7 @@ Hyprchat is a voice assistant that allows you to have conversation with local LL
 First clone the repository:
 
 ```
-git clone [link]
+git clone https://github.com/Rengeten1/Hyprchat.git
 ```
 
 Then install the packages:
